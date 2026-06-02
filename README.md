@@ -1,4 +1,4 @@
 # vipulkumbhare-demo
 First GIT repository
 <br>
-Author - Vipul Kumbhare
+Author - Vipul (Apna Schneider)
